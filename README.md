@@ -2,7 +2,7 @@
 title: implementation-approach
 created: 2026-10-16
 updated: 2026-10-16
-tags: [domain/인공지능, area/ai에이전트, topic/오케스트레이션]
+tags: [domain/인공지능, area/ai에이전트, topic/오케스트레이션, agent/claude-1b219bef-b3db-4ef6-8088-81f7f0d19120]
 source: ai
 ---
 
