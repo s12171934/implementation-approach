@@ -37,7 +37,7 @@ catalog="$skill_dir/references/구현 방식 카탈로그.md"
 ```
 
 - `readlink -f` 가 없는 환경이면 `python3 -c 'import os,sys;print(os.path.realpath(sys.argv[1]))' "$skill_file"`.
-- 방식 문서끼리의 `[[제목]]` 링크는 같은 `references/` 안의 `<제목>.md` 파일을 가리킨다.
+- 방식 문서 안에서 다른 방식 문서를 제목으로 가리키는 링크는 같은 `references/` 안의 `<제목>.md` 파일을 뜻한다.
 - 카탈로그를 못 읽는 표면(파일시스템 접근 없음, 링크 끊김)이면 **방식을 추측하지 않고** 사용자에게 카탈로그 내용을 요청한다.
 
 ## 3. 방식 고르기 — 결정은 사용자가 한다
