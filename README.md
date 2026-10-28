@@ -1,7 +1,7 @@
 ---
 title: implementation-approach
 created: 2026-10-16
-updated: 2026-10-19
+updated: 2026-10-28
 tags: [domain/인공지능, area/ai에이전트, topic/오케스트레이션, agent/claude-1b219bef-b3db-4ef6-8088-81f7f0d19120]
 source: ai
 ---
@@ -35,6 +35,7 @@ git clone https://github.com/s12171934/implementation-approach.git ~/.claude/ski
     - [[티켓 체크박스 커밋 리뷰 라운드]]
     - [[티켓 체크박스 커밋 리뷰 커밋과 지라 갱신]]
     - [[티켓 체크박스 커밋 리뷰 볼트 기록 규격]]
+    - [[티켓 체크박스 커밋 리뷰 체크박스를 넘는 검증]]
     - [[구현 검증 결과 재사용]]
     - [[코디네이터 호출 규율]]
 
